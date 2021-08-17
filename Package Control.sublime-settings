@@ -21,8 +21,9 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop",
-		"Terminus"
-	]
+		"Terminus",
+	],
 }
